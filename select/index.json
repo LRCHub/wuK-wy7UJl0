@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "blindfolded",
+  "base_artist": "Against the Current",
+  "createdAt": "2026-03-23T15:59:20.496755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blindfolded",
+      "artist": "Nicole Millar",
+      "has_synced": true,
+      "path": "select/01_Blindfolded_Nicole_Millar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blindfolded",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/02_Blindfolded_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blindfolded",
+      "artist": "Imperia",
+      "has_synced": false,
+      "path": "select/03_Blindfolded_Imperia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blindfolded (Reprise)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/04_Blindfolded_(Reprise)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Blindfolded Knife Game Song",
+      "artist": "Rusty Cage",
+      "has_synced": true,
+      "path": "select/05_The_Blindfolded_Knife_Game_Song_Rusty_Cage.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blindfolded (Acoustic)",
+      "artist": "The Classic Crime",
+      "has_synced": true,
+      "path": "select/06_Blindfolded_(Acoustic)_The_Classic_Crime.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blindfolded",
+      "artist": "The Classic Crime",
+      "has_synced": true,
+      "path": "select/07_Blindfolded_The_Classic_Crime.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blindfolded",
+      "artist": "Kris Allen",
+      "has_synced": true,
+      "path": "select/08_Blindfolded_Kris_Allen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blindfolded Centuries",
+      "artist": "Benighted",
+      "has_synced": true,
+      "path": "select/09_Blindfolded_Centuries_Benighted.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blindfolded",
+      "artist": "SAVES THE DAY",
+      "has_synced": true,
+      "path": "select/10_Blindfolded_SAVES_THE_DAY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blindfolded",
+      "artist": "Evergrey",
+      "has_synced": true,
+      "path": "select/11_Blindfolded_Evergrey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "blindfolded",
+      "artist": "Against The Current",
+      "has_synced": true,
+      "path": "select/12_blindfolded_Against_The_Current.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "blindfolded (acoustic)",
+      "artist": "Against The Current",
+      "has_synced": true,
+      "path": "select/13_blindfolded_(acoustic)_Against_The_Current.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blindfolded Visionary",
+      "artist": "All About Eve",
+      "has_synced": true,
+      "path": "select/14_Blindfolded_Visionary_All_About_Eve.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blindfolded - Live in the City of Angels",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/15_Blindfolded_-_Live_in_the_City_of_Angels_Simple_Minds.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "blindfolded",
+      "artist": "Against The Current",
+      "has_synced": false,
+      "path": "select/pl_01_blindfolded_Against_The_Current.txt"
+    }
+  ]
+}
